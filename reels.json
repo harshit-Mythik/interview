@@ -1,0 +1,726 @@
+{
+  "reels": [
+    {
+      "id": "reel_008",
+      "videoUrl": "https://assets.mixkit.co/videos/1214/1214-720.mp4",
+      "thumbnailUrl": "https://assets.mixkit.co/videos/1214/1214-thumb-360-0.jpg",
+      "durationSeconds": 12.0,
+      "width": 720,
+      "height": 1280,
+      "caption": "Walk it off 🌅",
+      "hashtags": [
+        "beachwalk",
+        "sunset",
+        "silhouette"
+      ],
+      "author": {
+        "id": "u_101",
+        "username": "wanderwithmeera",
+        "displayName": "Meera Nair",
+        "avatarUrl": "https://randomuser.me/api/portraits/women/44.jpg",
+        "isVerified": true,
+        "isFollowing": true
+      },
+      "audio": {
+        "title": "Monsoon Raga",
+        "artist": "The Tabla Collective",
+        "isOriginal": false
+      },
+      "stats": {
+        "views": 27475,
+        "likes": 1461,
+        "comments": 23,
+        "shares": 72
+      },
+      "viewerState": {
+        "isLiked": false,
+        "isSaved": false
+      },
+      "createdAt": "2026-09-27T01:30:00Z"
+    },
+    {
+      "id": "reel_012",
+      "videoUrl": "https://assets.mixkit.co/videos/52297/52297-720.mp4",
+      "thumbnailUrl": "https://assets.mixkit.co/videos/52297/52297-thumb-360-0.jpg",
+      "durationSeconds": 18.8,
+      "width": 720,
+      "height": 1280,
+      "caption": "Playing with fire (safely) 🔥",
+      "hashtags": [
+        "fire",
+        "slowmo",
+        "cinematic"
+      ],
+      "author": {
+        "id": "u_105",
+        "username": "dronewala",
+        "displayName": "Arjun Mehta",
+        "avatarUrl": "https://randomuser.me/api/portraits/men/11.jpg",
+        "isVerified": true,
+        "isFollowing": true
+      },
+      "audio": {
+        "title": "Weightless",
+        "artist": "Ambient Rooms",
+        "isOriginal": false
+      },
+      "stats": {
+        "views": 2165,
+        "likes": 214,
+        "comments": 5,
+        "shares": 15
+      },
+      "viewerState": {
+        "isLiked": false,
+        "isSaved": false
+      },
+      "createdAt": "2026-09-25T07:30:00Z"
+    },
+    {
+      "id": "reel_018",
+      "videoUrl": "https://assets.mixkit.co/videos/1187/1187-720.mp4",
+      "thumbnailUrl": "https://assets.mixkit.co/videos/1187/1187-thumb-360-0.jpg",
+      "durationSeconds": 23.2,
+      "width": 720,
+      "height": 1280,
+      "caption": "Soft breeze, soft petals",
+      "hashtags": [
+        "flowers",
+        "calm",
+        "breeze"
+      ],
+      "author": {
+        "id": "u_104",
+        "username": "slowliving.co",
+        "displayName": "Slow Living Co.",
+        "avatarUrl": "https://randomuser.me/api/portraits/men/75.jpg",
+        "isVerified": false,
+        "isFollowing": false
+      },
+      "audio": {
+        "title": "Sunset Drive",
+        "artist": "Lofi Nomad",
+        "isOriginal": false
+      },
+      "stats": {
+        "views": 33273,
+        "likes": 2929,
+        "comments": 29,
+        "shares": 85
+      },
+      "viewerState": {
+        "isLiked": false,
+        "isSaved": false
+      },
+      "createdAt": "2026-09-24T10:30:00Z"
+    },
+    {
+      "id": "reel_017",
+      "videoUrl": "https://assets.mixkit.co/videos/1173/1173-720.mp4",
+      "thumbnailUrl": "https://assets.mixkit.co/videos/1173/1173-thumb-360-0.jpg",
+      "durationSeconds": 27.6,
+      "width": 720,
+      "height": 1280,
+      "caption": "Yellow season is here 💛",
+      "hashtags": [
+        "flowers",
+        "bloom",
+        "spring"
+      ],
+      "author": {
+        "id": "u_103",
+        "username": "saltandsun",
+        "displayName": "Ananya Rao",
+        "avatarUrl": "https://randomuser.me/api/portraits/women/68.jpg",
+        "isVerified": true,
+        "isFollowing": false
+      },
+      "audio": {
+        "title": "Weightless",
+        "artist": "Ambient Rooms",
+        "isOriginal": false
+      },
+      "stats": {
+        "views": 64175,
+        "likes": 3098,
+        "comments": 38,
+        "shares": 74
+      },
+      "viewerState": {
+        "isLiked": false,
+        "isSaved": false
+      },
+      "createdAt": "2026-09-19T20:30:00Z"
+    },
+    {
+      "id": "reel_003",
+      "videoUrl": "https://assets.mixkit.co/videos/1197/1197-720.mp4",
+      "thumbnailUrl": "https://assets.mixkit.co/videos/1197/1197-thumb-360-0.jpg",
+      "durationSeconds": 21.8,
+      "width": 720,
+      "height": 1280,
+      "caption": "Quiet mornings on the pier ☕",
+      "hashtags": [
+        "calm",
+        "morning",
+        "lake"
+      ],
+      "author": {
+        "id": "u_103",
+        "username": "saltandsun",
+        "displayName": "Ananya Rao",
+        "avatarUrl": "https://randomuser.me/api/portraits/women/68.jpg",
+        "isVerified": true,
+        "isFollowing": false
+      },
+      "audio": {
+        "title": "Sunset Drive",
+        "artist": "Lofi Nomad",
+        "isOriginal": false
+      },
+      "stats": {
+        "views": 2168,
+        "likes": 196,
+        "comments": 6,
+        "shares": 8
+      },
+      "viewerState": {
+        "isLiked": false,
+        "isSaved": false
+      },
+      "createdAt": "2026-09-19T07:30:00Z"
+    },
+    {
+      "id": "reel_014",
+      "videoUrl": "https://assets.mixkit.co/videos/51501/51501-720.mp4",
+      "thumbnailUrl": "https://assets.mixkit.co/videos/51501/51501-thumb-360-0.jpg",
+      "durationSeconds": 12.2,
+      "width": 720,
+      "height": 1280,
+      "caption": "Mangroves from above — nature's own maze",
+      "hashtags": [
+        "mangroves",
+        "drone",
+        "green"
+      ],
+      "author": {
+        "id": "u_107",
+        "username": "coastalcurrents",
+        "displayName": "Dev Malhotra",
+        "avatarUrl": "https://randomuser.me/api/portraits/men/52.jpg",
+        "isVerified": false,
+        "isFollowing": false
+      },
+      "audio": {
+        "title": "Ocean Eyes (Instrumental)",
+        "artist": "Coastline Beats",
+        "isOriginal": false
+      },
+      "stats": {
+        "views": 1624795,
+        "likes": 179922,
+        "comments": 2885,
+        "shares": 5500
+      },
+      "viewerState": {
+        "isLiked": false,
+        "isSaved": true
+      },
+      "createdAt": "2026-09-18T20:30:00Z"
+    },
+    {
+      "id": "reel_019",
+      "videoUrl": "https://assets.mixkit.co/videos/1164/1164-720.mp4",
+      "thumbnailUrl": "https://assets.mixkit.co/videos/1164/1164-thumb-360-0.jpg",
+      "durationSeconds": 20.6,
+      "width": 720,
+      "height": 1280,
+      "caption": "Ripples. That's the post.",
+      "hashtags": [
+        "water",
+        "minimal",
+        "asmr"
+      ],
+      "author": {
+        "id": "u_105",
+        "username": "dronewala",
+        "displayName": "Arjun Mehta",
+        "avatarUrl": "https://randomuser.me/api/portraits/men/11.jpg",
+        "isVerified": true,
+        "isFollowing": false
+      },
+      "audio": {
+        "title": "Original audio",
+        "artist": "dronewala",
+        "isOriginal": true
+      },
+      "stats": {
+        "views": 7157,
+        "likes": 786,
+        "comments": 27,
+        "shares": 22
+      },
+      "viewerState": {
+        "isLiked": false,
+        "isSaved": false
+      },
+      "createdAt": "2026-09-17T23:30:00Z"
+    },
+    {
+      "id": "reel_015",
+      "videoUrl": "https://assets.mixkit.co/videos/1166/1166-720.mp4",
+      "thumbnailUrl": "https://assets.mixkit.co/videos/1166/1166-thumb-360-0.jpg",
+      "durationSeconds": 24.8,
+      "width": 720,
+      "height": 1280,
+      "caption": "Weekend = paddleboard 🏄",
+      "hashtags": [
+        "sup",
+        "weekend",
+        "water"
+      ],
+      "author": {
+        "id": "u_101",
+        "username": "wanderwithmeera",
+        "displayName": "Meera Nair",
+        "avatarUrl": "https://randomuser.me/api/portraits/women/44.jpg",
+        "isVerified": true,
+        "isFollowing": false
+      },
+      "audio": {
+        "title": "Monsoon Raga",
+        "artist": "The Tabla Collective",
+        "isOriginal": false
+      },
+      "stats": {
+        "views": 2154081,
+        "likes": 117585,
+        "comments": 1195,
+        "shares": 5307
+      },
+      "viewerState": {
+        "isLiked": true,
+        "isSaved": false
+      },
+      "createdAt": "2026-09-12T23:30:00Z"
+    },
+    {
+      "id": "reel_002",
+      "videoUrl": "https://assets.mixkit.co/active_storage/video_items/100174/1721166924/100174-video-720.mp4",
+      "thumbnailUrl": "https://assets.mixkit.co/active_storage/video_items/100174/1721166924/100174-video-thumb-360-0.jpg",
+      "durationSeconds": 15.4,
+      "width": 720,
+      "height": 1280,
+      "caption": "Found this hidden waterfall after a 6 km trek. Worth every step 💦",
+      "hashtags": [
+        "waterfall",
+        "trekking",
+        "monsoon"
+      ],
+      "author": {
+        "id": "u_102",
+        "username": "kabir.frames",
+        "displayName": "Kabir Sethi",
+        "avatarUrl": "https://randomuser.me/api/portraits/men/32.jpg",
+        "isVerified": false,
+        "isFollowing": false
+      },
+      "audio": {
+        "title": "Weightless",
+        "artist": "Ambient Rooms",
+        "isOriginal": false
+      },
+      "stats": {
+        "views": 2150,
+        "likes": 100,
+        "comments": 1,
+        "shares": 2
+      },
+      "viewerState": {
+        "isLiked": false,
+        "isSaved": false
+      },
+      "createdAt": "2026-09-10T15:30:00Z"
+    },
+    {
+      "id": "reel_011",
+      "videoUrl": "https://assets.mixkit.co/videos/51506/51506-720.mp4",
+      "thumbnailUrl": "https://assets.mixkit.co/videos/51506/51506-thumb-360-0.jpg",
+      "durationSeconds": 24.6,
+      "width": 720,
+      "height": 1280,
+      "caption": "The sea never gets tired 🌊",
+      "hashtags": [
+        "ocean",
+        "drone",
+        "waves"
+      ],
+      "author": {
+        "id": "u_104",
+        "username": "slowliving.co",
+        "displayName": "Slow Living Co.",
+        "avatarUrl": "https://randomuser.me/api/portraits/men/75.jpg",
+        "isVerified": false,
+        "isFollowing": false
+      },
+      "audio": {
+        "title": "Weightless",
+        "artist": "Ambient Rooms",
+        "isOriginal": false
+      },
+      "stats": {
+        "views": 1738126,
+        "likes": 117776,
+        "comments": 2852,
+        "shares": 6672
+      },
+      "viewerState": {
+        "isLiked": false,
+        "isSaved": false
+      },
+      "createdAt": "2026-09-07T16:30:00Z"
+    },
+    {
+      "id": "reel_005",
+      "videoUrl": "https://assets.mixkit.co/videos/1191/1191-720.mp4",
+      "thumbnailUrl": "https://assets.mixkit.co/videos/1191/1191-thumb-360-0.jpg",
+      "durationSeconds": 22.7,
+      "width": 720,
+      "height": 1280,
+      "caption": "Chasing the sun, one palm at a time",
+      "hashtags": [
+        "sunset",
+        "palms",
+        "vibes"
+      ],
+      "author": {
+        "id": "u_105",
+        "username": "dronewala",
+        "displayName": "Arjun Mehta",
+        "avatarUrl": "https://randomuser.me/api/portraits/men/11.jpg",
+        "isVerified": true,
+        "isFollowing": false
+      },
+      "audio": {
+        "title": "Sunset Drive",
+        "artist": "Lofi Nomad",
+        "isOriginal": false
+      },
+      "stats": {
+        "views": 25507,
+        "likes": 1219,
+        "comments": 39,
+        "shares": 69
+      },
+      "viewerState": {
+        "isLiked": true,
+        "isSaved": false
+      },
+      "createdAt": "2026-09-07T13:30:00Z"
+    },
+    {
+      "id": "reel_013",
+      "videoUrl": "https://assets.mixkit.co/videos/1188/1188-720.mp4",
+      "thumbnailUrl": "https://assets.mixkit.co/videos/1188/1188-thumb-360-0.jpg",
+      "durationSeconds": 15.1,
+      "width": 720,
+      "height": 1280,
+      "caption": "Look up more often",
+      "hashtags": [
+        "trees",
+        "mindful",
+        "nature"
+      ],
+      "author": {
+        "id": "u_106",
+        "username": "petalsandpixels",
+        "displayName": "Riya Kapoor",
+        "avatarUrl": "https://randomuser.me/api/portraits/women/21.jpg",
+        "isVerified": false,
+        "isFollowing": false
+      },
+      "audio": {
+        "title": "Original audio",
+        "artist": "petalsandpixels",
+        "isOriginal": true
+      },
+      "stats": {
+        "views": 1804618,
+        "likes": 112296,
+        "comments": 1738,
+        "shares": 5146
+      },
+      "viewerState": {
+        "isLiked": false,
+        "isSaved": false
+      },
+      "createdAt": "2026-09-05T06:30:00Z"
+    },
+    {
+      "id": "reel_004",
+      "videoUrl": "https://assets.mixkit.co/videos/51500/51500-720.mp4",
+      "thumbnailUrl": "https://assets.mixkit.co/videos/51500/51500-thumb-360-0.jpg",
+      "durationSeconds": 24.1,
+      "width": 720,
+      "height": 1280,
+      "caption": "That turquoise though 😍 Drone shot from today",
+      "hashtags": [
+        "drone",
+        "beach",
+        "aerial"
+      ],
+      "author": {
+        "id": "u_104",
+        "username": "slowliving.co",
+        "displayName": "Slow Living Co.",
+        "avatarUrl": "https://randomuser.me/api/portraits/men/75.jpg",
+        "isVerified": false,
+        "isFollowing": true
+      },
+      "audio": {
+        "title": "Original audio",
+        "artist": "slowliving.co",
+        "isOriginal": true
+      },
+      "stats": {
+        "views": 84963,
+        "likes": 6247,
+        "comments": 197,
+        "shares": 338
+      },
+      "viewerState": {
+        "isLiked": false,
+        "isSaved": false
+      },
+      "createdAt": "2026-09-04T20:30:00Z"
+    },
+    {
+      "id": "reel_001",
+      "videoUrl": "https://assets.mixkit.co/videos/1170/1170-720.mp4",
+      "thumbnailUrl": "https://assets.mixkit.co/videos/1170/1170-thumb-360-0.jpg",
+      "durationSeconds": 34.3,
+      "width": 720,
+      "height": 1280,
+      "caption": "Golden hour hits different by the coast 🌴",
+      "hashtags": [
+        "sunset",
+        "travel",
+        "goldenhour"
+      ],
+      "author": {
+        "id": "u_101",
+        "username": "wanderwithmeera",
+        "displayName": "Meera Nair",
+        "avatarUrl": "https://randomuser.me/api/portraits/women/44.jpg",
+        "isVerified": true,
+        "isFollowing": false
+      },
+      "audio": {
+        "title": "Original audio",
+        "artist": "wanderwithmeera",
+        "isOriginal": true
+      },
+      "stats": {
+        "views": 1776009,
+        "likes": 77900,
+        "comments": 3338,
+        "shares": 1997
+      },
+      "viewerState": {
+        "isLiked": false,
+        "isSaved": false
+      },
+      "createdAt": "2026-09-03T21:30:00Z"
+    },
+    {
+      "id": "reel_007",
+      "videoUrl": "https://assets.mixkit.co/videos/1183/1183-720.mp4",
+      "thumbnailUrl": "https://assets.mixkit.co/videos/1183/1183-thumb-360-0.jpg",
+      "durationSeconds": 11.0,
+      "width": 720,
+      "height": 1280,
+      "caption": "Hills at dawn 🌄",
+      "hashtags": [
+        "sunrise",
+        "mountains",
+        "nature"
+      ],
+      "author": {
+        "id": "u_107",
+        "username": "coastalcurrents",
+        "displayName": "Dev Malhotra",
+        "avatarUrl": "https://randomuser.me/api/portraits/men/52.jpg",
+        "isVerified": false,
+        "isFollowing": false
+      },
+      "audio": {
+        "title": "Original audio",
+        "artist": "coastalcurrents",
+        "isOriginal": true
+      },
+      "stats": {
+        "views": 1379336,
+        "likes": 109807,
+        "comments": 2606,
+        "shares": 5153
+      },
+      "viewerState": {
+        "isLiked": false,
+        "isSaved": true
+      },
+      "createdAt": "2026-09-02T18:30:00Z"
+    },
+    {
+      "id": "reel_010",
+      "videoUrl": "https://assets.mixkit.co/videos/1178/1178-720.mp4",
+      "thumbnailUrl": "https://assets.mixkit.co/videos/1178/1178-thumb-360-0.jpg",
+      "durationSeconds": 14.0,
+      "width": 720,
+      "height": 1280,
+      "caption": "Just the wind and me",
+      "hashtags": [
+        "breeze",
+        "nature",
+        "asmr"
+      ],
+      "author": {
+        "id": "u_103",
+        "username": "saltandsun",
+        "displayName": "Ananya Rao",
+        "avatarUrl": "https://randomuser.me/api/portraits/women/68.jpg",
+        "isVerified": true,
+        "isFollowing": false
+      },
+      "audio": {
+        "title": "Original audio",
+        "artist": "saltandsun",
+        "isOriginal": true
+      },
+      "stats": {
+        "views": 2108512,
+        "likes": 196370,
+        "comments": 2440,
+        "shares": 12192
+      },
+      "viewerState": {
+        "isLiked": true,
+        "isSaved": false
+      },
+      "createdAt": "2026-09-01T03:30:00Z"
+    },
+    {
+      "id": "reel_006",
+      "videoUrl": "https://assets.mixkit.co/videos/1968/1968-720.mp4",
+      "thumbnailUrl": "https://assets.mixkit.co/videos/1968/1968-thumb-360-0.jpg",
+      "durationSeconds": 15.0,
+      "width": 720,
+      "height": 1280,
+      "caption": "Smoke study. Shot on a black backdrop, zero edits",
+      "hashtags": [
+        "cinematic",
+        "smoke",
+        "experimental"
+      ],
+      "author": {
+        "id": "u_106",
+        "username": "petalsandpixels",
+        "displayName": "Riya Kapoor",
+        "avatarUrl": "https://randomuser.me/api/portraits/women/21.jpg",
+        "isVerified": false,
+        "isFollowing": false
+      },
+      "audio": {
+        "title": "Monsoon Raga",
+        "artist": "The Tabla Collective",
+        "isOriginal": false
+      },
+      "stats": {
+        "views": 2072875,
+        "likes": 236049,
+        "comments": 5190,
+        "shares": 15971
+      },
+      "viewerState": {
+        "isLiked": false,
+        "isSaved": false
+      },
+      "createdAt": "2026-08-29T22:30:00Z"
+    },
+    {
+      "id": "reel_009",
+      "videoUrl": "https://assets.mixkit.co/videos/1186/1186-720.mp4",
+      "thumbnailUrl": "https://assets.mixkit.co/videos/1186/1186-thumb-360-0.jpg",
+      "durationSeconds": 20.5,
+      "width": 720,
+      "height": 1280,
+      "caption": "Little pink things in the garden today 🌸",
+      "hashtags": [
+        "flowers",
+        "spring",
+        "macro"
+      ],
+      "author": {
+        "id": "u_102",
+        "username": "kabir.frames",
+        "displayName": "Kabir Sethi",
+        "avatarUrl": "https://randomuser.me/api/portraits/men/32.jpg",
+        "isVerified": false,
+        "isFollowing": false
+      },
+      "audio": {
+        "title": "Weightless",
+        "artist": "Ambient Rooms",
+        "isOriginal": false
+      },
+      "stats": {
+        "views": 85148,
+        "likes": 8142,
+        "comments": 270,
+        "shares": 385
+      },
+      "viewerState": {
+        "isLiked": false,
+        "isSaved": false
+      },
+      "createdAt": "2026-08-23T21:30:00Z"
+    },
+    {
+      "id": "reel_016",
+      "videoUrl": "https://assets.mixkit.co/videos/1222/1222-720.mp4",
+      "thumbnailUrl": "https://assets.mixkit.co/videos/1222/1222-thumb-360-0.jpg",
+      "durationSeconds": 17.6,
+      "width": 720,
+      "height": 1280,
+      "caption": "Landed it on the 14th try 😅",
+      "hashtags": [
+        "parkour",
+        "beach",
+        "flip"
+      ],
+      "author": {
+        "id": "u_102",
+        "username": "kabir.frames",
+        "displayName": "Kabir Sethi",
+        "avatarUrl": "https://randomuser.me/api/portraits/men/32.jpg",
+        "isVerified": false,
+        "isFollowing": true
+      },
+      "audio": {
+        "title": "Original audio",
+        "artist": "kabir.frames",
+        "isOriginal": true
+      },
+      "stats": {
+        "views": 2282127,
+        "likes": 210862,
+        "comments": 8348,
+        "shares": 9994
+      },
+      "viewerState": {
+        "isLiked": false,
+        "isSaved": false
+      },
+      "createdAt": "2026-08-22T14:30:00Z"
+    }
+  ]
+}
